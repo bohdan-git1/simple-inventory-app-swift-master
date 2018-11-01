@@ -1,0 +1,15 @@
+PODS:
+  - RSBarcodes_Swift (0.1.9)
+  - TTTAttributedLabel (2.0.0)
+
+DEPENDENCIES:
+  - RSBarcodes_Swift (~> 0.1.9)
+  - TTTAttributedLabel
+
+SPEC CHECKSUMS:
+  RSBarcodes_Swift: 3c37a05faa0c8742739e1b47eec2f0d3d786330f
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
+
+PODFILE CHECKSUM: bd0e9ebd60af1c8e3d02ee8b4083b987793dced2
+
+COCOAPODS: 1.0.1
